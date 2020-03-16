@@ -1,0 +1,94 @@
+*{
+	margin: 0;
+}
+
+.main{
+	width: 100%;
+	height: 100%;
+	background-color: #f2f2f2;
+}
+
+.heading{
+	background-color:#3b5998;
+	padding-top: 15px;
+	padding-left: 180px;
+	height: 70px;
+}
+
+.eml{
+	text-decoration-color: rgb(gray);
+	position: absolute;
+	top: 26px;
+	right: 480px;
+	text-align: left;
+}
+
+.pass{
+	position: absolute;
+	top: 26px;
+	right: 290px;
+	text-align: left;
+}
+
+.log{
+	position: absolute;
+	top: 44px;
+	right: 220px;
+	text-align: center;
+	padding: 2px  2px;
+	background-color: rgb(51,102,204);
+	width: 50px;
+	border-width: 1px;
+	border-color: #002699;
+	border-radius: 2px;
+}
+
+.for{
+	position: absolute;
+	top: 65px;
+	right: 340px;
+	text-align: left;
+}
+
+.for a{
+	color: #809fff;
+}
+.image{
+	position: relative;
+	top: 15px;
+	left: 200px;
+}
+
+.fill{
+
+	position: absolute;
+	bottom: 70px;
+	left: 750px;
+}
+
+.gen{
+	
+	padding: 10px;
+}
+
+#sub{
+	padding-left: 200px;
+	padding-top: 20px;
+	font-size: 22px;
+	}
+
+.para{
+	
+
+}
+
+.sign{
+	background-color: rgb(0,102,0);
+	border-radius: 4px;
+	width: 200px;
+	height: 40px;
+	font-size: 24px;
+	border-width: 2px;
+	border-color: #004d00;
+	
+}
